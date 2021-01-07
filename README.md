@@ -4,9 +4,9 @@ de um determinado perfil do instagram de forma automatizada.
 
 ## Utilização
 Antes de iniciar o script é necessário preencher as variáveis: <br>
-self.user_login - login do usuario que quer ganhar seguidores <br>
-self.user_password - senha do usuario que quer ganhar seguidores <br>
-self.profile_list - lista de perfis no instagram para seguir os seguidores
+<b>self.user_login </b>- login do usuario que quer ganhar seguidores <br>
+<b>self.user_password </b>- senha do usuario que quer ganhar seguidores <br>
+<b>self.profile_list </b>- lista de perfis no instagram para seguir os seguidores
 
 ## Requerimentos
 1) Python3 -
