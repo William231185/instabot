@@ -39,9 +39,9 @@ class InstaBot():
     def __init__(self):
         self.driver = webdriver.Chrome(PATH)
         self.driver.get("https://instagram.com") # abre a página
-        self.profile_list = ['sw0len_lab1a', 'dabhitzz', 'pocketnoose'] # lista de usuarios do instagram para seguir os seguidores
-        self.user_login = "__biaabite"
-        self.user_password = "Minhasenha123" #senha do seu usuario do instagram
+        self.profile_list = ['perfil1', 'perfil2', 'perfil3', 'perfil4', 'perfil5'] # lista de usuarios do instagram para seguir os seguidores
+        self.user_login = "Seu_Login"
+        self.user_password = "Sua_Senha"
         self.number_to_follow = 500 #numero de seguidores a ser seguido de cada perfil listado (este número será dividido por 2)
         try:
             self.login(); sleep(2)
