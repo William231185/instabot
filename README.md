@@ -3,17 +3,17 @@ Este protótpipo tem a finalidade de aumentar a quantidade de seguidores
 de um determinado perfil do instagram de forma automatizada.
 
 ## Utilização
-Antes de iniciar o script é necessário preencher as variáveis:
-self.user_login - login do usuario que quer ganhar seguidores
-self.user_password - senha do usuario que quer ganhar seguidores
+Antes de iniciar o script é necessário preencher as variáveis: <br>
+self.user_login - login do usuario que quer ganhar seguidores <br>
+self.user_password - senha do usuario que quer ganhar seguidores <br>
 self.profile_list - lista de perfis no instagram para seguir os seguidores
 
 ## Requerimentos
-1) Python3
+1) Python3 -
 Download:
 https://www.python.org/downloads/
 
-2) Chrome Webdriver
+2) Chrome Webdriver -
 Download:
 https://chromedriver.chromium.org/downloads
 
